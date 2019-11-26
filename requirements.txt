@@ -3,3 +3,4 @@ tensorflow
 numpy
 matplotlib
 opencv-python
+pillow
