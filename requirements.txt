@@ -2,4 +2,4 @@ keras
 tensorflow
 numpy
 matplotlib
-opencv
+opencv-python
